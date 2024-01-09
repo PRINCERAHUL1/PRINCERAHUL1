@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princerahul1&label=Profile%20views&color=0e75b6&style=flat" alt="princerahul1" /> </p>
 
-- 🌱 I’m currently learning **DSA, Laravel & Ethical Hacking**
+- 🌱 I’m currently learning **Laravel & Ethical Hacking**
 
 - 💬 Ask me about **C,HTML,PHP**
 
