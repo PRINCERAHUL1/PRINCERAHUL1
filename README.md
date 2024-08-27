@@ -1,6 +1,6 @@
 ![logo](https://github.com/PRINCERAHUL1/PRINCERAHUL1/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rahul Mandal</h1>
-<h3 align="center">A passionate Backend Developer & Cyber Security enthusiast from India</h3>
+<h3 align="center">A passionate Backend Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif">
 
