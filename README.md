@@ -15,10 +15,10 @@
   </a>
 </p>
  
-<p align="center">
-  Roses are red ❤️ Databases are blue💙 <br>  
-  Like a foreign key🔑 I’ll always point to you 😉
-</p>
+  <h4 align="center">
+    Roses are red ❤️ Databases are blue💙 <br>  
+    Like a foreign key🔑 I’ll always point to you 😉
+  </h4>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-mandal-039b82268) 
