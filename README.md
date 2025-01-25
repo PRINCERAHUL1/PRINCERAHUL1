@@ -5,8 +5,8 @@
 
 
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=princerahul1&label=Profile%20views&color=0e75b6&style=flat" alt="princerahul1" /> </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=princerahul1&label=Profile%20views&color=0e75b6&style=flat" alt="princerahul1" />
   <img src="https://img.shields.io/badge/Learning-Machine%20Learning-chocolate" alt="Learning" />
   <img src="https://img.shields.io/badge/Collaboration-Open%20to%20WebDev%20&%20ML%20Projects-brown" alt="Collaboration" />
   <img src="https://img.shields.io/badge/Location-Howrah,%20India-brightgreen" alt="Location" />
@@ -61,7 +61,7 @@
 
 ## 📊 GitHub Stats:
 
-<img align="right" alt="coding" width="400" src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif">
+<img align="right" alt="coding" width="380" src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif">
 
 ![](https://github-readme-stats.vercel.app/api?username=PRINCERAHUL1&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
